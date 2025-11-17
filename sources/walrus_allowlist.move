@@ -1,6 +1,6 @@
 
 
-module allowlist::allowlist {
+module walrus_allowlist::allowlist {
 
 use std::string::String;
 use sui::dynamic_field as df;

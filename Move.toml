@@ -9,7 +9,7 @@ app = { r.mvr = "@pkg/seal-allowlist" }
 
 
 [addresses]
-allowlist = "0x8a992b2ac7b85e6d6f522c57f10c2d84593c8f1461d71e4dedb7a3638f5c9a1b"
+walrus_allowlist = "0x8a992b2ac7b85e6d6f522c57f10c2d84593c8f1461d71e4dedb7a3638f5c9a1b"
 
 
 
